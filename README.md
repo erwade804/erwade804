@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erwade804
+- 🌱 I’m currently learning AI and Graphics
+- I am currently working on a DDR remake in Python
